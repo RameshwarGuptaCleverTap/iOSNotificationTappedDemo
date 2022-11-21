@@ -5,8 +5,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/CleverTap/clevertap-ios-sdk",
       "state" : {
-        "revision" : "b8a824a10245a99144f1ec2feefb9a6a6e01bcd9",
-        "version" : "4.1.4"
+        "revision" : "a42a0b997ca1e0d30c41051728d6f5cfa19e1aef",
+        "version" : "4.1.5"
       }
     },
     {
